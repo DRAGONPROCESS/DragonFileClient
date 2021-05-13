@@ -15,6 +15,7 @@ the button below is a button to reset the list.
 The textfield at the top of the program is ip address you're connecting to.
 the button on the top is the button to connect tothe server, and the button on the bottom is the button to disconnect from the server.
 And the button next to it is a button to refresh the directory list of the server.
+THE buttom button is the button to DOWNLOAD THE FILES!!!
 
 
 Then enjoy it!
